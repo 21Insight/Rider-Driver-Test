@@ -4,5 +4,5 @@ module MyRideHailingApp
         # Implement logic to calculate total amount, create a transaction, and finish the ride
       end
     end
-  end
+end
   
