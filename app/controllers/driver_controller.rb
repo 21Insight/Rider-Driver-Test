@@ -1,4 +1,4 @@
-class DriverController < ApplicationController
+class DriverController
     def finish_ride
       ride_id = params[:ride_id]
       final_location = params[:final_location]

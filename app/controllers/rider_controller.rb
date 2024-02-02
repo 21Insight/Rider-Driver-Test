@@ -1,4 +1,4 @@
-class RiderController < ApplicationController
+class RiderController
     def create_payment_method
       rider_id = params[:rider_id]
       card_token = params[:card_token]
